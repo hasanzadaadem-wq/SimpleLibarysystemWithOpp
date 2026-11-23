@@ -1,3 +1,4 @@
+from book import *
 class student:
     def __init__(self,studentID,name):
         self.name = name
