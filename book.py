@@ -36,8 +36,8 @@ PageCount:{self.pageCount}
 
 
 book1 = Book(1,"Clean Code","Robert Martin", 464)
-book2 = Book(1,"Python Crash","Eric Mattehs", 560)
-book3 = Book(1,"Atomis Habbits","James Clear", 320)
+book2 = Book(2,"Python Crash","Eric Mattehs", 560)
+book3 = Book(3,"Atomis Habbits","James Clear", 320)
 
 
 
